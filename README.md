@@ -2,6 +2,6 @@
 Um projeto de teste com um arquivo README 🚀 para explicação de projetos.
 
 ## Tecnologias utilizadas:
-- HTML
+- HTML 5
 - CSS
 - JavaScript
