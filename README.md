@@ -7,3 +7,5 @@ Um projeto de teste com um arquivo README 🚀 para explicação de projetos.
 - HTML 5
 - CSS
 - JavaScript
+
+[<img src="./dogdance.gif" alt="Doguinho dançando com humaninho.">]
